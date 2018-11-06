@@ -1,0 +1,26 @@
+Ul {
+color: blue;
+}
+
+a{
+color: black;
+}
+
+a:hover{
+color: red;
+}
+
+
+h1 {
+color: green;
+}
+
+h2 {
+color: blue;
+}
+
+h3 {
+color: white;
+h4 {
+color: red;
+}
